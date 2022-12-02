@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm snehasaran09</h1>
-<h3 align="center">A passionate machine learning , deep learning and NLP enthusiast. I love all things AI. I am also into fronted web development.</h3>
+<h3 align="center">A passionate machine learning , deep learning and NLP enthusiast. I love all things AI. I am also into front-end web development.</h3>
 
 - 🌱 I’m currently learning **NLTK , Spacy, Next.js**
 
