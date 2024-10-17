@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm snehasaran09</h1>
-<h3 align="center">A passionate machine learning , deep learning and NLP enthusiast. I love all things AI. I am also into front-end web development.</h3>
+<h3 align="center">A passionate data engineer always looking out for new ways to implement data-driven solutions to society that are also impactful. </h3>
 
-- 🌱 I’m currently learning **NLTK , Spacy, Next.js**
+- 🌱 I’m currently learning **Large Language Models, leveraging Llama3.2 with edge devices**
 
 - 💬 Ask me about **ML, Pandas, Matplotlib, NumPy, Scikit-learn, Deep Learning**
 
